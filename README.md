@@ -1,6 +1,6 @@
 # Regressão Linear Simples
 
-Trabalho desenvolvido para a disciplina de [Machine Learning], com o objetivo de implementar uma **regressão linear simples do zero**, sem o uso de bibliotecas de Machine Learning (como `scikit-learn`), apenas com `numpy`.
+Trabalho desenvolvido para a disciplina de **Machine Learning**, com o objetivo de implementar uma **regressão linear simples do zero**, sem o uso de bibliotecas de Machine Learning (como `scikit-learn`), apenas com `numpy`.
 
 O projeto está dividido em dois notebooks: um com um exemplo didático e simples, e outro aplicando o mesmo método a um conjunto de dados real do mercado imobiliário.
 
